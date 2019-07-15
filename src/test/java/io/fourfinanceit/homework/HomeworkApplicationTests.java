@@ -11,7 +11,6 @@ public class HomeworkApplicationTests {
 
     @Test
     public void contextLoads() {
-        // test coverage
-        HomeworkApplication.main(new String[]{});
+
     }
 }
